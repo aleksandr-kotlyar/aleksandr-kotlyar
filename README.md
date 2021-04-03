@@ -67,13 +67,8 @@ Find my socials in the dark ;)
 </a>
 <br />
 <br />
-
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=aleksandr-kotlyar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-kotlyar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=dark" />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gore&layout=compact&theme=dark&range=last_7_days&custom_title=My%20Last%20Week%20in%20Open%20Source)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-kotlyar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aleksandr's github stats](https://github-readme-stats.vercel.app/api?username=aleksandr-kotlyar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aleksandr-kotlyar"/>       
