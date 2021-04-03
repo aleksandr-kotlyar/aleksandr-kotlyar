@@ -2,7 +2,7 @@
 
 My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have decided to start doing something great in Open Source.
 
-Find my socials in the dark ;)
+My socials are hidden in the dark ;)
 
 <a href="https://linkedin.com/in/aleksandr-kotlyar" target="_blank"> <img align="center" alt="Aleksandr's | LinkedIn" width="26px" src="https://plan2profit.ca/wp-content/uploads/2018/12/linkedin-logo-white.png" /></a>
 <br />
