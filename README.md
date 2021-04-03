@@ -13,7 +13,7 @@ Find my socials in the dark ;)
 <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />&nbsp;&nbsp;</a>
 <a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
 <a href="https://gitlab.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" />&nbsp;&nbsp;</a>
-<a href="https://github.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitHub" width="26px" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />&nbsp;&nbsp;</a>
+<a href="https://github.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitHub" width="36px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
 <br />
 
 ### Softwares:
