@@ -2,11 +2,6 @@
 
 My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have decided to start doing something great in Open Source.
 
-My socials are hidden in the dark ;)
-
-<a href="https://linkedin.com/in/aleksandr-kotlyar" target="_blank"> <img align="center" alt="Aleksandr's | LinkedIn" width="26px" src="https://plan2profit.ca/wp-content/uploads/2018/12/linkedin-logo-white.png" /></a>
-<br />
-
 ### Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
 <a href="https://openjdk.java.net/" target="_blank"><img align="center" alt="Java" width="24px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>&nbsp;&nbsp;</a>
