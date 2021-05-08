@@ -19,51 +19,52 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 
 ### Projects I am involved as collaborator or contributor:
 <a href="https://github.com/yashaka/selene">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashaka&repo=selene&show_owner=1&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashaka&repo=selene&show_owner=1&theme=solarized-light" />
 </a>
 <a href="https://github.com/SergeyPirogov/webdriver_manager">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeyPirogov&repo=webdriver_manager&show_owner=1&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeyPirogov&repo=webdriver_manager&show_owner=1&theme=solarized-light" />
 </a>
 <br />
 
 <a href="https://github.com/allure-examples/allure-examples">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allure-examples&repo=allure-examples&show_owner=1&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allure-examples&repo=allure-examples&show_owner=1&theme=solarized-light" />
 </a>
 <a href="https://github.com/deepsourcelabs/good-first-issue">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepsourcelabs&repo=good-first-issue&show_owner=1&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepsourcelabs&repo=good-first-issue&show_owner=1&theme=solarized-light" />
 </a>
 <br />
 <br />
 
 ### My projects
 <a href="https://github.com/aleksandr-kotlyar/gitlab-allure-history">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=gitlab-allure-history&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=gitlab-allure-history&theme=default" />
 </a>
 <a href="https://github.com/aleksandr-kotlyar/python_and_gitlab">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python_and_gitlab&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python_and_gitlab&theme=default" />
 </a>
 <br />
 <br />
 
 <a href="https://github.com/aleksandr-kotlyar/allure-report-attachments-cleaner">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=allure-report-attachments-cleaner&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=allure-report-attachments-cleaner&theme=default" />
 </a>
 <a href="https://github.com/aleksandr-kotlyar/local-allure-history-trends-bash">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=local-allure-history-trends-bash&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=local-allure-history-trends-bash&theme=default" />
 </a>
 <br />
 <br />
 
 <a href="https://github.com/aleksandr-kotlyar/python-gitlabci-selenium">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python-gitlabci-selenium&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python-gitlabci-selenium&theme=default" />
 </a>
 <a href="https://github.com/aleksandr-kotlyar/java-automation-template">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=java-automation-template&theme=dark" />
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=java-automation-template&theme=default" />
 </a>
 <br />
 <br />
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aleksandr-kotlyar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=dark"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-kotlyar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=dark"/></a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gore&layout=compact&theme=dark&range=last_7_days&custom_title=My%20Last%20Week%20in%20Open%20Source)](https://github.com/anuraghazra/github-readme-stats)
+<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aleksandr-kotlyar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-kotlyar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=default" /></a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gore&layout=compact&theme=default&hide=html&hide_title=true&hide_border=true&line_height=21&custom_title=My%20Last%20Week%20in%20Open%20Source)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aleksandr-kotlyar"/>       
