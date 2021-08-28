@@ -65,6 +65,4 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 
 <a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aleksandr-kotlyar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=default" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-kotlyar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=default" /></a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gore&layout=compact&theme=default&hide=html&hide_title=true&hide_border=true&line_height=21&custom_title=My%20Last%20Week%20in%20Open%20Source)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=aleksandr-kotlyar"/>       
