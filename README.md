@@ -7,7 +7,7 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 <a href="https://openjdk.java.net/" target="_blank"><img align="center" alt="Java" width="24px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"/>&nbsp;&nbsp;</a>
 <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" width="30px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />&nbsp;&nbsp;</a>
 <a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
-<a href="https://gitlab.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" />&nbsp;&nbsp;</a>
+<a href="https://gitlab.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitLab" width="26px" src="https://about.gitlab.com/images/icons/logos/slp-icon.svg" />&nbsp;&nbsp;</a>
 <a href="https://github.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitHub" width="36px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
 <br />
 
