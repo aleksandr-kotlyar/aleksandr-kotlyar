@@ -32,6 +32,13 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 <br />
 
 ### My projects
+<a href="https://github.com/aleksandr-kotlyar/pytest-rocketchat">
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=pytest-rocketchat&theme=default" />
+</a>
+<a href="https://github.com/aleksandr-kotlyar/allure-report-attachments-cleaner">
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=allure-report-attachments-cleaner&theme=default" />
+<br />
+<br />
 <a href="https://github.com/aleksandr-kotlyar/gitlab-allure-history">
 <img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=gitlab-allure-history&theme=default" />
 </a>
@@ -41,8 +48,7 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 <br />
 <br />
 
-<a href="https://github.com/aleksandr-kotlyar/allure-report-attachments-cleaner">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=allure-report-attachments-cleaner&theme=default" />
+
 </a>
 <a href="https://github.com/aleksandr-kotlyar/local-allure-history-trends-bash">
 <img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=local-allure-history-trends-bash&theme=default" />
