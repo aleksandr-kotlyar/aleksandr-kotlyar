@@ -14,7 +14,7 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="center" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />&nbsp;&nbsp;</a>
 <br />
 
-### Projects I am involved in:
+### Projects I am involved in
 <a href="https://github.com/yashaka/selene">
 <img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashaka&repo=selene&show_owner=1&theme=solarized-light" />
 </a>
