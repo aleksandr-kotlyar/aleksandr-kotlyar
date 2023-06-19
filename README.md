@@ -23,14 +23,6 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 </a>
 <br />
 
-<a href="https://github.com/allure-examples/allure-examples">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=allure-examples&repo=allure-examples&show_owner=1&theme=solarized-light" />
-</a>
-<a href="https://github.com/deepsourcelabs/good-first-issue">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepsourcelabs&repo=good-first-issue&show_owner=1&theme=solarized-light" />
-</a>
-<br />
-
 ### My projects
 <a href="https://github.com/aleksandr-kotlyar/pytest-rocketchat">
 <img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=pytest-rocketchat&theme=default" />
