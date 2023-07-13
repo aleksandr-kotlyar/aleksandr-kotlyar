@@ -45,8 +45,12 @@ My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have d
 <a href="https://github.com/aleksandr-kotlyar/local-allure-history-trends-bash">
 <img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=local-allure-history-trends-bash&theme=default" />
 </a>
+<a href="https://github.com/aleksandr-kotlyar/bash-pull-git-components">
+<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=bash-pull-git-components&theme=default" />
+</a>
 <br />
 <br />
+
 
 <a href="https://github.com/aleksandr-kotlyar/python-gitlabci-selenium">
 <img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python-gitlabci-selenium&theme=default" />
