@@ -38,7 +38,7 @@ jobs:
           plugin_calendar_limit: 10
           plugin_habits: no
           plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 3650
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
@@ -58,7 +58,7 @@ jobs:
           plugin_languages_indepth_custom: yashaka/selene, SergeyPirogov/webdriver_manager
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 3650
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0.5%
