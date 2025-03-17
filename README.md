@@ -3,10 +3,10 @@
 My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have decided to start doing something great in Open Source.
 
 ### Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
-<a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" width="30px" src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-2.svg" />&nbsp;&nbsp;</a>
-<a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
-<a href="https://gitlab.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitLab" width="26px" src="https://about.gitlab.com/images/devops-tools/gitlab-logo.svg" />&nbsp;&nbsp;</a>
+<a style="text-decoration:none" href="https://www.python.org" target="_blank"><img align="center" alt="Python" width="24px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>&nbsp;&nbsp;</a>
+<a href="https://www.docker.com/" target="_blank" style="text-decoration:none"><img align="center" alt="Docker" width="31px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>&nbsp;&nbsp;</a>
+<a href="https://git-scm.com/" target="_blank" style="text-decoration:none"><img align="center" alt="git" width="23px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;</a>
+<a href="https://gitlab.com/aleksandr-kotlyar" target="_blank" style="text-decoration:none" ><img align="center" alt="GitLab" width="30px" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" />&nbsp;&nbsp;</a>
 <a href="https://github.com/aleksandr-kotlyar" target="_blank"><img align="center" alt="GitHub" width="36px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />&nbsp;&nbsp;</a>
 <br />
 
