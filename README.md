@@ -1,29 +1,21 @@
 ## Hello there! 
 
-My name is Aleksandr Kotlyar. I am a software engineer in test. In 2020 I have decided to start doing something great in Open Source.
+My name is Aleksandr Kotlyar. I am a software engineer in test since 2015. In 2020 I have decided to start doing something great in Open Source.
 
 ### Languages and Tools:
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" alt="Python" style="width: 30px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" style="width: 30px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 30px;" />
-  </a>
-  <a href="https://gitlab.com/aleksandr-kotlyar" target="_blank" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="GitLab" style="width: 30px;" />
-  </a>
-  <a href="https://github.com/aleksandr-kotlyar" target="_blank" style="text-decoration: none;">
-    <img src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" alt="GitHub" style="width: 30px;" />
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;"><img alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg" style="vertical-align: middle; border: none;" /></a>
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;"><img alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" style="vertical-align: middle; border: none;"/></a>
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;"><img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="vertical-align: middle; border: none;"/></a>
+  <a href="https://gitlab.com/aleksandr-kotlyar" target="_blank" style="text-decoration: none;"><img alt="GitLab" width="26px" src="https://www.svgrepo.com/show/448226/gitlab.svg" style="vertical-align: middle; border: none;"/></a>
+  <a href="https://github.com/aleksandr-kotlyar" target="_blank" style="text-decoration: none;"><img alt="GitHub" width="26px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" style="vertical-align: middle; border: none;"/>
   </a>
 </div>
 <br />
 
 ### Softwares:
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img align="center" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />&nbsp;&nbsp;</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" style="text-decoration: none;"><img alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="vertical-align: middle; border: none;" />
+</a>
 <br />
 
 ### Projects I am involved in
