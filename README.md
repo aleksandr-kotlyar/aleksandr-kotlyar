@@ -1,70 +1,117 @@
-## Hello there! 
+# Aleksandr Kotlyar
 
-My name is Aleksandr Kotlyar. I am a software engineer in test since 2015. In 2020 I have decided to start doing something great in Open Source.
+QA Head / Senior Software Engineer in Test  
+Mentor @ getmentor.dev · Lecturer @ qa.guru
 
-### Languages and Tools:
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none;"><img alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg" style="vertical-align: middle; border: none;" /></a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;"><img alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" style="vertical-align: middle; border: none;"/></a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;"><img alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="vertical-align: middle; border: none;"/></a>
-  <a href="https://gitlab.com/aleksandr-kotlyar" target="_blank" style="text-decoration: none;"><img alt="GitLab" width="26px" src="https://www.svgrepo.com/show/448226/gitlab.svg" style="vertical-align: middle; border: none;"/></a>
-  <a href="https://github.com/aleksandr-kotlyar" target="_blank" style="text-decoration: none;"><img alt="GitHub" width="26px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" style="vertical-align: middle; border: none;"/>
-  </a>
-</div>
-<br />
+I build test automation infrastructure, CI/CD quality gates, reporting systems, and engineering practices that help teams ship faster without losing control over quality.
 
-### Softwares:
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" style="text-decoration: none;"><img alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="vertical-align: middle; border: none;" />
-</a>
-<br />
+My focus is not just writing automated tests, but designing reliable feedback loops for engineering teams:
+- test automation architecture
+- GitLab CI/CD quality gates
+- Allure reporting and test observability
+- Dockerized test execution
+- Selenium / Pytest / Java automation templates
+- flaky test diagnostics
+- test data and environment strategy
+- mentoring and QA engineering standards
 
-### Projects I am involved in
-<a href="https://github.com/yashaka/selene">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashaka&repo=selene&show_owner=1&theme=solarized-light" />
-</a>
-<a href="https://github.com/SergeyPirogov/webdriver_manager">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeyPirogov&repo=webdriver_manager&show_owner=1&theme=solarized-light" />
-</a>
-<br />
+## What I do
 
-### My projects
-<a href="https://github.com/aleksandr-kotlyar/pytest-rocketchat">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=pytest-rocketchat&theme=default" />
-</a>
-<a href="https://github.com/aleksandr-kotlyar/allure-report-attachments-cleaner">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=allure-report-attachments-cleaner&theme=default" />
-<br />
-<br />
-<a href="https://github.com/aleksandr-kotlyar/gitlab-allure-history">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=gitlab-allure-history&theme=default" />
-</a>
-<a href="https://github.com/aleksandr-kotlyar/python_and_gitlab">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python_and_gitlab&theme=default" />
-</a>
-<br />
-<br />
+I help engineering teams turn testing from a manual checkpoint into an integrated engineering system.
 
+This usually means:
+- designing maintainable automation frameworks
+- integrating tests into CI/CD pipelines
+- improving visibility of test results and trends
+- reducing flaky and low-signal checks
+- building reusable templates and tooling
+- defining quality gates for release pipelines
+- mentoring QA engineers and automation specialists
 
-</a>
-<a href="https://github.com/aleksandr-kotlyar/local-allure-history-trends-bash">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=local-allure-history-trends-bash&theme=default" />
-</a>
-<a href="https://github.com/aleksandr-kotlyar/bash-pull-git-components">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=bash-pull-git-components&theme=default" />
-</a>
-<br />
-<br />
+## Featured projects
 
+### gitlab-allure-history
 
-<a href="https://github.com/aleksandr-kotlyar/python-gitlabci-selenium">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=python-gitlabci-selenium&theme=default" />
-</a>
-<a href="https://github.com/aleksandr-kotlyar/java-automation-template">
-<img align="top" alt="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aleksandr-kotlyar&repo=java-automation-template&theme=default" />
-</a>
-<br />
-<br />
+A GitLab CI/CD solution for publishing Allure reports with historical trends on GitLab Pages.
 
-<a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aleksandr-kotlyar&count_private=true&show_icons=true&line_height=21&&theme=default"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr-kotlyar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&theme=default" /></a>
+The project demonstrates:
+- Allure report history storage
+- GitLab CI artifacts flow
+- report generation as a pipeline stage
+- publishing reports through GitLab Pages
+- reusable reporting infrastructure for QA teams
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aleksandr-kotlyar"/>       
+Repository: https://github.com/aleksandr-kotlyar/gitlab-allure-history
+
+### python-gitlabci-selenium
+
+A Python project template for multi-browser Selenium test execution in GitLab CI and locally using Docker.
+
+The project demonstrates:
+- Dockerized browser test execution
+- Selenium test automation structure
+- GitLab CI integration
+- reusable automation project template
+- local and CI execution consistency
+
+Repository: https://github.com/aleksandr-kotlyar/python-gitlabci-selenium
+
+### python_and_gitlab
+
+A practical collection of CI/CD and QA automation examples.
+
+Includes:
+- pytest execution in GitLab CI
+- Slack notifications
+- pylint and quality checks
+- GitLab artifacts
+- test parametrization
+- Allure logging and attachments
+- multithread execution examples
+- sitemap status checking
+- Azure pipeline examples
+
+Repository: https://github.com/aleksandr-kotlyar/python_and_gitlab
+
+### java-automation-template
+
+A Java automation template for UI testing with JUnit, Selenide, Allure, WebDriverManager, and logging.
+
+The project demonstrates:
+- reusable Java test automation structure
+- Allure reporting
+- browser automation setup
+- test framework template practices
+
+Repository: https://github.com/aleksandr-kotlyar/java-automation-template
+
+## Engineering principles
+
+I believe good QA engineering is not about adding more tests everywhere.
+
+It is about building a system where:
+- critical risks are covered early
+- feedback is fast and reliable
+- test results are observable and explainable
+- flaky tests are treated as technical debt
+- quality gates are explicit, measurable, and owned
+- automation improves delivery instead of slowing it down
+
+## Areas of expertise
+
+- QA strategy and test automation leadership
+- CI/CD quality gates
+- Test automation architecture
+- Python / Pytest / Selenium
+- Java / Selenide / JUnit
+- GitLab CI
+- Docker-based test execution
+- Allure reporting
+- Test observability
+- Mentoring and engineering standards
+
+## Professional background
+
+QA Head, mentor, lecturer, and software engineer in test with experience in building QA automation practices, test infrastructure, and CI/CD-based quality processes.
+
+LinkedIn: https://www.linkedin.com/in/aleksandr-kotlyar/
