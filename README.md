@@ -33,8 +33,6 @@ This usually includes:
 
 ### gitlab-allure-history
 
-### gitlab-allure-history
-
 A GitLab CI/CD reporting solution for preserving Allure history across pipeline runs and publishing trend reports on GitLab Pages.
 
 Useful for teams that need:
