@@ -128,6 +128,10 @@ It is about building a system where:
 
 ## Professional background
 
-QA Head, mentor, lecturer, and software engineer in test with experience in building QA automation practices, test infrastructure, and CI/CD-based quality processes.
+QA Head, mentor, lecturer, and Senior Software Engineer in Test.
+
+My background combines hands-on automation engineering with QA leadership:
+building test infrastructure, defining CI/CD quality gates, improving reporting and observability,
+mentoring engineers, and turning testing practices into scalable engineering standards.
 
 LinkedIn: https://www.linkedin.com/in/aleksandr-kotlyar/
