@@ -17,29 +17,29 @@ My focus is not just writing automated tests, but designing reliable feedback lo
 
 ## What I do
 
-I help engineering teams turn testing from a manual checkpoint into an integrated engineering system.
+I help engineering teams build reliable quality feedback loops inside CI/CD.
 
-This usually means:
-- designing maintainable automation frameworks
-- integrating tests into CI/CD pipelines
-- improving visibility of test results and trends
-- reducing flaky and low-signal checks
-- building reusable templates and tooling
-- defining quality gates for release pipelines
+This usually includes:
+- test automation architecture
+- CI/CD quality gates
+- reporting and test observability
+- flaky test reduction
+- reusable templates and tooling
 - mentoring QA engineers and automation specialists
 
 ## Featured projects
 
 ### gitlab-allure-history
 
-A GitLab CI/CD solution for publishing Allure reports with historical trends on GitLab Pages.
+### gitlab-allure-history
 
-The project demonstrates:
-- Allure report history storage
-- GitLab CI artifacts flow
-- report generation as a pipeline stage
-- publishing reports through GitLab Pages
-- reusable reporting infrastructure for QA teams
+A GitLab CI/CD reporting solution for preserving Allure history across pipeline runs and publishing trend reports on GitLab Pages.
+
+Useful for teams that need:
+- historical visibility of test results
+- report publishing without external infrastructure
+- GitLab-native artifact and Pages flow
+- reusable reporting infrastructure for QA pipelines
 
 Repository: https://github.com/aleksandr-kotlyar/gitlab-allure-history
 
