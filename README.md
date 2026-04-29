@@ -5,9 +5,10 @@ Mentor @ getmentor.dev · Lecturer @ qa.guru
 
 I build test automation infrastructure, CI/CD quality gates, reporting systems, and engineering practices that help teams ship faster without losing control over quality.
 
-My focus is not just writing automated tests, but designing reliable feedback loops for engineering teams:
+My focus is designing reliable quality feedback loops for engineering teams:
+
 - test automation architecture
-- GitLab CI/CD quality gates
+- CI/CD quality gates
 - Allure reporting and test observability
 - Dockerized test execution
 - Selenium / Pytest / Java automation templates
@@ -17,14 +18,15 @@ My focus is not just writing automated tests, but designing reliable feedback lo
 
 ## What I do
 
-I help engineering teams build reliable quality feedback loops inside CI/CD.
+I help engineering teams turn testing into an integrated engineering system inside CI/CD.
 
 This usually includes:
-- test automation architecture
-- CI/CD quality gates
-- reporting and test observability
-- flaky test reduction
-- reusable templates and tooling
+
+- designing maintainable automation frameworks
+- integrating tests into delivery pipelines
+- improving visibility of test results and trends
+- reducing flaky and low-signal checks
+- building reusable templates and tooling
 - mentoring QA engineers and automation specialists
 
 ## Featured projects
@@ -58,18 +60,16 @@ Repository: https://github.com/aleksandr-kotlyar/python-gitlabci-selenium
 
 ### python_and_gitlab
 
-A practical collection of CI/CD and QA automation examples.
+A CI/CD testing cookbook with practical examples for Python QA automation.
 
-Includes:
+Includes examples for:
 - pytest execution in GitLab CI
+- test artifacts and reports
 - Slack notifications
-- pylint and quality checks
-- GitLab artifacts
-- test parametrization
+- linting and quality checks
 - Allure logging and attachments
-- multithread execution examples
-- sitemap status checking
-- Azure pipeline examples
+- parallel execution patterns
+- Azure Pipelines examples
 
 Repository: https://github.com/aleksandr-kotlyar/python_and_gitlab
 
@@ -91,7 +91,7 @@ I have contributed to open-source tools used in Python test automation and Selen
 
 ### webdriver_manager
 
-Contributed to `webdriver_manager`, a Python library for managing browser drivers in Selenium automation.
+Contributed fixes and improvements to `webdriver_manager`, a Python library for managing browser drivers in Selenium automation.
 
 Contribution areas:
 - browser driver version resolution
@@ -107,10 +107,10 @@ Repository: https://github.com/SergeyPirogov/webdriver_manager
 Contributed to `selene`, a Python library for user-oriented Web UI browser tests.
 
 Contribution areas:
-- Python UI testing tooling
-- project configuration and release tooling
+- release and project tooling
 - issue investigation and user support
 - Selenium/Selene behavior analysis
+- Python UI testing ecosystem improvements
 
 Repository: https://github.com/yashaka/selene
 
@@ -120,8 +120,8 @@ I teach QA automation, Python testing practices, CI/CD quality gates, and test i
 
 ### qa.guru teaching projects
 
-- `niffler-py-st1` — qa.guru Python teaching project: staged automation framework used for classroom practice and architecture demonstrations
-- `niffler-py-st2` — qa.guru Python teaching project: continued staged automation framework with advanced automation, fixtures, test data, and CI/CD practices
+- `niffler-py-st1` — staged qa.guru Python automation project for classroom practice and architecture demos
+- `niffler-py-st2` — advanced qa.guru Python automation project with fixtures, test data, and CI/CD practices
 
 ### qa.guru lecture and workshop materials
 
@@ -132,7 +132,7 @@ I teach QA automation, Python testing practices, CI/CD quality gates, and test i
 
 ## Engineering principles
 
-I believe good QA engineering is not about adding more tests everywhere.
+Good QA engineering is not about adding more tests everywhere.
 
 It is about building a system where:
 - critical risks are covered early
