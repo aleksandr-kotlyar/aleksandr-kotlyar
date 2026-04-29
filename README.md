@@ -85,6 +85,16 @@ The project demonstrates:
 
 Repository: https://github.com/aleksandr-kotlyar/java-automation-template
 
+## Teaching and mentoring
+
+I also teach QA automation and Python testing practices.
+
+Selected teaching materials:
+- `qa_guru_python_advanced_1_2` — Python Advanced lecture/workshop materials for qa.guru
+- `qa_guru_python_1_9_jenkins` — Jenkins CI workshop materials for qa.guru
+- `qa_guru_python_1_8_files` — file handling examples for Python QA automation
+- `qa_guru_3_6_files` — practical materials for working with files in automation tasks
+
 ## Engineering principles
 
 I believe good QA engineering is not about adding more tests everywhere.
