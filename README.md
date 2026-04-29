@@ -87,9 +87,15 @@ Repository: https://github.com/aleksandr-kotlyar/java-automation-template
 
 ## Teaching and mentoring
 
-I also teach QA automation and Python testing practices.
+I teach QA automation, Python testing practices, CI/CD quality gates, and test infrastructure design.
 
-Selected teaching materials:
+### qa.guru teaching projects
+
+- `niffler-py-st1` — qa.guru Python teaching project: staged automation framework used for classroom practice and architecture demonstrations
+- `niffler-py-st2` — qa.guru Python teaching project: continued staged automation framework with advanced automation, fixtures, test data, and CI/CD practices
+
+### qa.guru lecture and workshop materials
+
 - `qa_guru_python_advanced_1_2` — Python Advanced lecture/workshop materials for qa.guru
 - `qa_guru_python_1_9_jenkins` — Jenkins CI workshop materials for qa.guru
 - `qa_guru_python_1_8_files` — file handling examples for Python QA automation
