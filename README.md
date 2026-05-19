@@ -1,7 +1,6 @@
 # Aleksandr Kotlyar
 
-QA Head / Senior Software Engineer in Test  
-Mentor @ getmentor.dev · Lecturer @ qa.guru
+Senior Software Engineer in Test / QA Automation Lead
 
 I build test automation infrastructure, CI/CD quality gates, reporting systems, and engineering practices that help teams ship faster without losing control over quality.
 
@@ -11,7 +10,7 @@ My focus is designing reliable quality feedback loops for engineering teams:
 - CI/CD quality gates
 - Allure reporting and test observability
 - Dockerized test execution
-- Selenium / Pytest / Java automation templates
+- Selenium / Pytest automation templates
 - flaky test diagnostics
 - test data and environment strategy
 - mentoring and QA engineering standards
@@ -71,18 +70,6 @@ Includes examples for:
 
 Repository: https://github.com/aleksandr-kotlyar/python_and_gitlab
 
-### java-automation-template
-
-A Java automation template for UI testing with JUnit, Selenide, Allure, WebDriverManager, and logging.
-
-The project demonstrates:
-- reusable Java test automation structure
-- Allure reporting
-- browser automation setup
-- test framework template practices
-
-Repository: https://github.com/aleksandr-kotlyar/java-automation-template
-
 ## Open-source contributions
 
 I contribute to Python testing and browser automation tooling, mostly around Selenium-based UI testing, CI reliability, release tooling, and project maintenance.
@@ -98,21 +85,18 @@ My contribution areas include:
 
 I prefer practical open-source work that improves reliability, maintainability, and developer experience for test automation projects.
 
-## Teaching and mentoring
+## Mentoring
 
-I teach QA automation, Python testing practices, CI/CD quality gates, and test infrastructure design.
+I provide mentoring and consulting in test automation, QA engineering, CI/CD quality gates, Selenium/Pytest, and automation architecture.
 
-### qa.guru teaching projects
+Topics I usually help with:
 
-- `niffler-py-st1` — staged qa.guru Python automation project for classroom practice and architecture demos
-- `niffler-py-st2` — advanced qa.guru Python automation project with fixtures, test data, and CI/CD practices
-
-### qa.guru lecture and workshop materials
-
-- `qa_guru_python_advanced_1_2` — Python Advanced lecture/workshop materials for qa.guru
-- `qa_guru_python_1_9_jenkins` — Jenkins CI workshop materials for qa.guru
-- `qa_guru_python_1_8_files` — file handling examples for Python QA automation
-- `qa_guru_3_6_files` — practical materials for working with files in automation tasks
+- building maintainable test automation frameworks;
+- stabilizing flaky UI tests;
+- setting up CI/CD test reporting;
+- improving Allure reports and test history;
+- designing practical QA automation roadmaps;
+- preparing for SDET / QA automation interviews.
 
 ## Engineering principles
 
@@ -132,7 +116,6 @@ It is about building a system where:
 - CI/CD quality gates
 - Test automation architecture
 - Python / Pytest / Selenium
-- Java / Selenide / JUnit
 - GitLab CI
 - Docker-based test execution
 - Allure reporting
@@ -141,10 +124,8 @@ It is about building a system where:
 
 ## Professional background
 
-QA Head, mentor, lecturer, and Senior Software Engineer in Test.
+QA automation lead, mentor, and Senior Software Engineer in Test.
 
-My background combines hands-on automation engineering with QA leadership:
-building test infrastructure, defining CI/CD quality gates, improving reporting and observability,
-mentoring engineers, and turning testing practices into scalable engineering standards.
+My background combines hands-on automation engineering with QA leadership: building test infrastructure, defining CI/CD quality gates, improving reporting and observability, mentoring engineers, and turning testing practices into scalable engineering standards.
 
 LinkedIn: https://www.linkedin.com/in/aleksandr-kotlyar/
