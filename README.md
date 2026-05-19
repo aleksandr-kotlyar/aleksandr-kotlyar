@@ -85,32 +85,18 @@ Repository: https://github.com/aleksandr-kotlyar/java-automation-template
 
 ## Open-source contributions
 
-I have contributed to open-source tools used in Python test automation and Selenium-based UI testing.
+I contribute to Python testing and browser automation tooling, mostly around Selenium-based UI testing, CI reliability, release tooling, and project maintenance.
 
-### webdriver_manager
+My contribution areas include:
 
-Contributed fixes and improvements to `webdriver_manager`, a Python library for managing browser drivers in Selenium automation.
+- browser automation infrastructure;
+- Selenium ecosystem compatibility;
+- CI stability for browser-related tests;
+- issue triage and regression investigation;
+- release, packaging, and documentation improvements;
+- user support for Python UI testing tools.
 
-Contribution areas:
-- browser driver version resolution
-- Chrome / Edge / Opera driver handling
-- driver cache and metadata logic
-- CI stability for browser-related tests
-- Selenium ecosystem compatibility
-
-Repository: https://github.com/SergeyPirogov/webdriver_manager
-
-### selene
-
-Contributed to `selene`, a Python library for user-oriented Web UI browser tests.
-
-Contribution areas:
-- release and project tooling
-- issue investigation and user support
-- Selenium/Selene behavior analysis
-- Python UI testing ecosystem improvements
-
-Repository: https://github.com/yashaka/selene
+I prefer practical open-source work that improves reliability, maintainability, and developer experience for test automation projects.
 
 ## Teaching and mentoring
 
