@@ -1,10 +1,10 @@
 # Aleksandr Kotlyar
 
-Senior Software Engineer in Test / QA Automation Lead
+**QA Automation Lead / Senior Software Engineer in Test**
 
-I build test automation infrastructure, CI/CD quality gates, reporting systems, and engineering practices that help teams ship faster without losing control over quality.
+I design and build test infrastructure, CI/CD quality gates, reporting systems, and automation practices that help engineering teams ship faster with measurable quality.
 
-My focus is designing reliable quality feedback loops for engineering teams:
+My focus is on making quality visible, measurable, and actionable through reliable feedback loops, maintainable automation, and pragmatic engineering standards.
 
 - test automation architecture
 - CI/CD quality gates
