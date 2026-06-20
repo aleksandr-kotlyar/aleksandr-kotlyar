@@ -55,20 +55,22 @@ The project demonstrates:
 
 Repository: https://github.com/aleksandr-kotlyar/python-gitlabci-selenium
 
-### python_and_gitlab
+### python-test-automation-cookbook
 
-A CI/CD testing cookbook with practical examples for Python QA automation.
+A Python QA automation cookbook with reusable recipes for API testing, pytest patterns, CI/CD pipelines, Dockerized execution, Allure reporting, quality gates, and security scanning.
 
-Includes examples for:
-- pytest execution in GitLab CI
-- test artifacts and reports
-- Slack notifications
-- linting and quality checks
-- Allure logging and attachments
-- parallel execution patterns
-- Azure Pipelines examples
+Includes recipes for:
 
-Repository: https://github.com/aleksandr-kotlyar/python_and_gitlab
+* API contract testing with pytest and JSON Schema
+* pytest fixtures, parametrization, helpers, and reusable assertions
+* GitLab CI and GitHub Actions test pipelines
+* Dockerized test execution and image build/test/publish workflows
+* Allure reports, logging, attachments, and history publishing
+* linting, code quality checks, and CI quality gates
+* security and container scanning with Trivy, Bandit, Hadolint, and Dockle
+* optional Slack notifications, Selenium/browser examples, and Azure Pipelines
+
+Repository: https://github.com/aleksandr-kotlyar/python-test-automation-cookbook
 
 ## Open-source contributions
 
