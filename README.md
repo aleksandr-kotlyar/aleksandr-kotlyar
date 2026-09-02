@@ -1,133 +1,44 @@
 # Aleksandr Kotlyar
 
-**QA Automation Lead / Senior Software Engineer in Test**
+**Senior Software Engineer in Test / QA Automation Lead**
 
-I design and build test infrastructure, CI/CD quality gates, reporting systems, and automation practices that help engineering teams ship faster with measurable quality.
+I build test infrastructure, CI/CD quality gates, and reporting systems
+that make engineering feedback faster, more reliable, and easier to act on.
 
-My focus is on making quality visible, measurable, and actionable through reliable feedback loops, maintainable automation, and pragmatic engineering standards.
-
-- test automation architecture
-- CI/CD quality gates
-- Allure reporting and test observability
-- Dockerized test execution
-- Selenium / Pytest automation templates
-- flaky test diagnostics
-- test data and environment strategy
-- mentoring and QA engineering standards
-
-## What I do
-
-I help engineering teams turn testing into an integrated engineering system inside CI/CD.
-
-This usually includes:
-
-- designing maintainable automation frameworks
-- integrating tests into delivery pipelines
-- improving visibility of test results and trends
-- reducing flaky and low-signal checks
-- building reusable templates and tooling
-- mentoring QA engineers and automation specialists
+My work focuses on Python test automation, GitLab CI, Docker, Allure reporting,
+test observability, and reducing flaky or low-signal checks. I also mentor QA
+engineers and help teams establish practical automation standards.
 
 ## Featured projects
 
-### gitlab-allure-history
+### [gitlab-allure-history](https://github.com/aleksandr-kotlyar/gitlab-allure-history)
 
-A GitLab CI/CD reporting solution for preserving Allure history across pipeline runs and publishing trend reports on GitLab Pages.
+A GitLab CI solution for preserving Allure history across pipeline runs
+and publishing trend reports through GitLab Pages.
 
-Useful for teams that need:
-- historical visibility of test results
-- report publishing without external infrastructure
-- GitLab-native artifact and Pages flow
-- reusable reporting infrastructure for QA pipelines
+### [python-gitlabci-selenium](https://github.com/aleksandr-kotlyar/python-gitlabci-selenium)
 
-Repository: https://github.com/aleksandr-kotlyar/gitlab-allure-history
+A reusable Selenium and pytest project template for consistent multi-browser
+test execution locally and in GitLab CI with Docker.
 
-### python-gitlabci-selenium
+### [python-test-automation-cookbook](https://github.com/aleksandr-kotlyar/python-test-automation-cookbook)
 
-A Python project template for multi-browser Selenium test execution in GitLab CI and locally using Docker.
+Practical recipes for API and UI testing, pytest architecture, CI/CD pipelines,
+Dockerized execution, Allure reporting, quality gates, and security checks.
 
-The project demonstrates:
-- Dockerized browser test execution
-- Selenium test automation structure
-- GitLab CI integration
-- reusable automation project template
-- local and CI execution consistency
+## Open source
 
-Repository: https://github.com/aleksandr-kotlyar/python-gitlabci-selenium
+Alongside my own projects, I contribute to GitLab and other open-source
+projects through implementation, regression investigation, testing,
+and maintenance.
 
-### python-test-automation-cookbook
+Outside test automation, I build open-source World of Warcraft addons
+in Lua under [Ancestral Forge](https://github.com/ancestral-forge).
 
-A Python QA automation cookbook with reusable recipes for API testing, pytest patterns, CI/CD pipelines, Dockerized execution, Allure reporting, quality gates, and security scanning.
+## Focus
 
-Includes recipes for:
+Python · pytest · Selenium · GitLab CI · Docker · Allure · Test observability
 
-* API contract testing with pytest and JSON Schema
-* pytest fixtures, parametrization, helpers, and reusable assertions
-* GitLab CI and GitHub Actions test pipelines
-* Dockerized test execution and image build/test/publish workflows
-* Allure reports, logging, attachments, and history publishing
-* linting, code quality checks, and CI quality gates
-* security and container scanning with Trivy, Bandit, Hadolint, and Dockle
-* optional Slack notifications, Selenium/browser examples, and Azure Pipelines
-
-Repository: https://github.com/aleksandr-kotlyar/python-test-automation-cookbook
-
-## Open-source contributions
-
-I contribute to Python testing and browser automation tooling, mostly around Selenium-based UI testing, CI reliability, release tooling, and project maintenance.
-
-My contribution areas include:
-
-- browser automation infrastructure;
-- Selenium ecosystem compatibility;
-- CI stability for browser-related tests;
-- issue triage and regression investigation;
-- release, packaging, and documentation improvements;
-- user support for Python UI testing tools.
-
-I prefer practical open-source work that improves reliability, maintainability, and developer experience for test automation projects.
-
-## Mentoring
-
-I provide mentoring and consulting in test automation, QA engineering, CI/CD quality gates, Selenium/Pytest, and automation architecture.
-
-Topics I usually help with:
-
-- building maintainable test automation frameworks;
-- stabilizing flaky UI tests;
-- setting up CI/CD test reporting;
-- improving Allure reports and test history;
-- designing practical QA automation roadmaps;
-- preparing for SDET / QA automation interviews.
-
-## Engineering principles
-
-Good QA engineering is not about adding more tests everywhere.
-
-It is about building a system where:
-- critical risks are covered early
-- feedback is fast and reliable
-- test results are observable and explainable
-- flaky tests are treated as technical debt
-- quality gates are explicit, measurable, and owned
-- automation improves delivery instead of slowing it down
-
-## Areas of expertise
-
-- QA strategy and test automation leadership
-- CI/CD quality gates
-- Test automation architecture
-- Python / Pytest / Selenium
-- GitLab CI
-- Docker-based test execution
-- Allure reporting
-- Test observability
-- Mentoring and engineering standards
-
-## Professional background
-
-QA automation lead, mentor, and Senior Software Engineer in Test.
-
-My background combines hands-on automation engineering with QA leadership: building test infrastructure, defining CI/CD quality gates, improving reporting and observability, mentoring engineers, and turning testing practices into scalable engineering standards.
-
-LinkedIn: https://www.linkedin.com/in/aleksandr-kotlyar/
+[GitLab](https://gitlab.com/aleksandr-kotlyar) ·
+[Ancestral Forge](https://github.com/ancestral-forge) ·
+[LinkedIn](https://www.linkedin.com/in/aleksandr-kotlyar/)
