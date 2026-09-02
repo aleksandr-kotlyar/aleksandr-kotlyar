@@ -28,17 +28,15 @@ Dockerized execution, Allure reporting, quality gates, and security checks.
 
 ## Open source
 
-Alongside my own projects, I contribute to GitLab and other open-source
-projects through implementation, regression investigation, testing,
-and maintenance.
+Alongside my own projects, I contribute to
+[GitLab](https://gitlab.com/aleksandr-kotlyar) and other open-source projects
+through implementation, regression investigation, testing, and maintenance.
 
-Outside test automation, I build open-source World of Warcraft addons
-in Lua under [Ancestral Forge](https://github.com/ancestral-forge).
+Outside test automation, I build open-source World of Warcraft addons in Lua
+under [Ancestral Forge](https://github.com/ancestral-forge).
 
 ## Focus
 
-Python · pytest · Selenium · GitLab CI · Docker · Allure · Test observability
+Test infrastructure · CI/CD quality gates · Python · GitLab CI · Allure · Test observability
 
-[GitLab](https://gitlab.com/aleksandr-kotlyar) ·
-[Ancestral Forge](https://github.com/ancestral-forge) ·
 [LinkedIn](https://www.linkedin.com/in/aleksandr-kotlyar/)
